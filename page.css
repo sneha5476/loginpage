@@ -1,0 +1,53 @@
+body{
+background-color:#fff;
+}
+.display{
+margin-top=10%;
+margin-left:40%;
+width:330px;
+height:360px;
+border-radius:20px;
+background-color:violet;
+text-align:center;
+}
+.username input{
+margin-top:20px;
+border:none;
+outline:none;
+font-size:22px;
+border-bottom:2px solid gray;
+}
+.Password input{
+margin-top:20px;
+border:none;
+outline:none;
+font-size:22px;
+border-bottom:2px solid gray;\
+}
+.forgot{
+margin-top:20px;
+font-size:18px;
+}
+.login-btn{
+width:240px;
+height:40px;
+background-color:white;
+border:none;
+color:blue;
+font-size:18px;
+border-radius:20px;
+margin-top:20px;
+}
+.login-btn:hover{
+font-size:22px;
+}
+.sign-up{
+margin-top:20px;
+font-size:20px;
+cursor:pointer;
+}
+.span{
+margin-top:20px;
+font-size:20px;
+color:violet;
+}
